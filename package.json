@@ -1,0 +1,18 @@
+{
+  "name": "chatbot_node",
+  "version": "1.0.0",
+  "description": "Chatbot utilizando Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renata Felix",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^8.3.1"
+  },
+  "devDependencies": {}
+}
