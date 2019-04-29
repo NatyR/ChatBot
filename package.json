@@ -10,9 +10,10 @@
   "keywords": [],
   "author": "Renata Felix",
   "license": "ISC",
-  "dependencies": {
-    "botbuilder": "^3.13.1",
-    "restify": "^8.3.1"
+  "dependencies": {    
+    "nodemon": "^1.18.11",
+    "restify": "^8.3.1",
+    "botbuilder": "^3.13.0"
   },
   "devDependencies": {}
 }
