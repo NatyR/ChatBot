@@ -24,10 +24,6 @@ npm install --save nodemon
 
 Instalar o .exe BOT FRAMEWORK EMULATOR (de acordo com seu sistema operacional
 
-```
-Link: 
-```
-
 ## Execução
 
 Executar a aplicação em console 
@@ -42,5 +38,6 @@ http://localhost:3978/api/messages
 
 
 Porfim, basta interagir com o Bot via chat.
+
 
 
